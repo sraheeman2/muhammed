@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "enter your name:"
+read name
+echo "entered your name :$name"
+echo "enter your place:"
+read place
+echo "enter your place :$place"
+
